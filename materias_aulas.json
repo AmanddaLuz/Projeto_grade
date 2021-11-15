@@ -1,0 +1,130 @@
+{
+    "Turmas": [
+        {
+            "6A": "9 matérias",
+            "Matérias": {
+                "Geografia" : 3,
+                "Português" : 6,
+                "Matemática" : 6,
+                "Ciências" : 4,
+                "História" : 3,
+                "Inglês" : 2,
+                "Ed. Física" : 2,
+                "Ed. Emocional" : 2,
+                "Artes" : 2
+            }
+        },
+        {
+            "6B": "9 matérias",
+            "Matérias": {
+                "Geografia": 3,
+                "Português": 6,
+                "Matemática": 6,
+                "Ciências": 4,
+                "História": 3,
+                "Inglês": 2,
+                "Ed. Física": 2,
+                "Ed. Emocional": 2,
+                "Artes": 2
+            }
+        },
+        {
+            "7A": "9 matérias",
+            "Matérias": {
+                "Geografia": 3,
+                "Português": 6,
+                "Matemática": 6,
+                "Ciências": 4,
+                "História": 3,
+                "Inglês": 2,
+                "Ed. Física": 2,
+                "Ed. Emocional": 2,
+                "Artes": 2
+            }
+        },
+        {
+            "7B": "9 matérias",
+            "Matérias": {
+                "Geografia": 3,
+                "Português": 6,
+                "Matemática": 6,
+                "Ciências": 4,
+                "História": 3,
+                "Inglês": 2,
+                "Ed. Física": 2,
+                "Ed. Emocional": 2,
+                "Artes": 2
+            }
+        },
+        {
+            "8A": "11 matérias",
+            "Matérias": {
+                "Geografia": 3,
+                "Português": 3,
+                "Matemática": 5,
+                "Ciências": 4,
+                "História": 3,
+                "Inglês": 2,
+                "Ed. Física": 2,
+                "Ed. Emocional": 2,
+                "Artes": 1,
+                "Geometria": 2,
+                "Redação": 3
+            }
+        },
+                {
+            "8B": "11 matérias",
+            "Matérias": {
+                "Geografia": 3,
+                "Português": 3,
+                "Matemática": 5,
+                "Ciências": 4,
+                "História": 3,
+                "Inglês": 2,
+                "Ed. Física": 2,
+                "Ed. Emocional": 2,
+                "Artes": 1,
+                "Geometria": 2,
+                "Redação": 3
+            }
+        },
+        {
+            "9A": "11 matérias",
+            "Matérias": {
+                "Geografia": 3,
+                "Português": 2,
+                "Matemática": 5,
+                "Ciências": 3,
+                "História": 3,
+                "Inglês": 2,
+                "Ed. Física": 2,
+                "Ed. Emocional": 2,
+                "Geometria": 2,
+                "Redação": 3,
+                "Quimica": 2,
+                "Física": 3,
+                "Literatura": 1,
+                "Artes": 1
+            }
+        },
+        {
+            "9A": "11 matérias",
+            "Matérias": {
+                "Geografia": 3,
+                "Português": 2,
+                "Matemática": 5,
+                "Ciências": 3,
+                "História": 3,
+                "Inglês": 2,
+                "Ed. Física": 2,
+                "Ed. Emocional": 2,
+                "Geometria": 2,
+                "Redação": 3,
+                "Quimica": 2,
+                "Física": 3,
+                "Literatura": 1,
+                "Artes": 1
+            }
+        }
+    ]
+}
